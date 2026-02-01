@@ -1,14 +1,14 @@
-# 👋 Hi there, I'm Ahmed Ramadan! <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="30px">
+# 👋 Hi there, I'm Ahmed Ramadan! <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hand-wave.gif" width="30px">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Software+Engineer+Enthusiast;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Software+Engineer+Enthusiast;Full+Stack+Desktop+Applications;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I am **Ahmed Ramadan Abdelradi**, a passionate **Computer Science student** dedicated to mastering the art of software development. I thrive on solving complex problems and building efficient solutions. Currently, I am focused on strengthening my **logic and problem-solving skills** while working on various impactful projects.
+I am **Ahmed Ramadan Abdelradi**, a passionate **Computer Science student** dedicated to mastering the art of software development. I thrive on solving complex problems and building efficient solutions. Currently, I am focused on strengthening my **logic and problem-solving skills** and learning **Full Stack Desktop Applications** development while working on various impactful projects.
 
 - 🎓 **Education:** Student at the Faculty of Computers and Information.
 - 💡 **Interests:** Software Engineering, Backend Development, and Competitive Programming.
@@ -60,16 +60,6 @@ I am **Ahmed Ramadan Abdelradi**, a passionate **Computer Science student** dedi
   <a href="https://ahm3dramad3n.github.io/portfolio/en/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
   </a>
-</p>
-
----
-
-### 🏆 Problem Solving & Logic
-
-I am actively working on improving my logical thinking through platforms like Codeforces and LeetCode.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahm3dramad3n&repo=Problem-Solving&theme=radical" alt="Problem Solving Repo" />
 </p>
 
 ---
